@@ -122,7 +122,7 @@ Chrisfisprojet-rostand
 ## Contributors
 
 - **Barthez Kenwou**: [**01Barthez**]
-- **kwinkwa ketchassorostand**: [**ketchDev-starck**](https://github.com/ketchDev-starck)
+- **kwinkwa ketchassorostand**: [**ketchDev-starck**](https://github.com/ketchDev-stark)
 
 
 ## Contributing
